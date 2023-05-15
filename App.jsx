@@ -7,7 +7,7 @@ const App = () => {
       <UserProfileCard
         name="John Doe"
         profilePicture="path/to/profile-picture.jpg"
-        bio="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus id ligula non ex tempus hendrerit."
+        bio="Lorem ipsum dolor sit amet."
       />
     </div>
   );
